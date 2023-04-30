@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }, 
+  "scripts": {
+    "start": "nodemon --exec ts-node"
+  }
+}
