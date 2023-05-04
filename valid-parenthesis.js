@@ -28,14 +28,15 @@ Constraints:
 1 <= s.length <= 104
 s consists of parentheses only '()[]{}'.
 */
-
+/*This is a stack, wich means there is a control of the order of the elements coming inside the stack, in order to make sure
+* non of the close parenthesis comes after another*/
 /**
  * @param {string} s
  * @return {boolean}
  */
-var isValid = function (s) {
-    stack = []
-    closeOpen = {
+const isValid = function (s) {
+    let stack = []
+    let closeOpen = {
         ")": "(",
         "]": "[",
         "}": "{"
@@ -43,7 +44,7 @@ var isValid = function (s) {
 
     for (let c of s) {
         if (c in closeOpen) {
-            if (stack.length > 0 && stack[stack.length - 1] == closeOpen[c]) {
+            if (stack.length > 0 && stack[stack.length - 1] === closeOpen[c]) {
                 stack.pop()
             } else {
                 return false
@@ -53,7 +54,7 @@ var isValid = function (s) {
         }
     }
 
-    if (stack.length == 0) { return true } else { return false }
+    return stack.length === 0;
 };
 
 console.log(isValid("()"))
