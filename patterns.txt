@@ -1,0 +1,87 @@
+creational 
+
+singleton
+factory pattern
+abstract factory
+builder pattern
+prototype
+
+
+structural
+
+adapter
+decorator
+composite
+proxy
+facade
+bridge
+
+behavioral
+
+observer
+strategy
+command
+template
+iterator
+state 
+chain of responsability
+visitor
+memento
+
+
+architectural
+model view controller
+model vire presenter
+model view viewmodel
+
+layered 
+repository
+dependency injection
+event driven architecture
+
+concurrency
+Producer consumer
+Reader-writer
+active
+thread pool
+
+
+
+
+Functional programming
+
+Pure Functional
+Inmutable Data
+First-Class Higher-Order Functions
+Function Composition
+Currying
+Recursion
+Monads
+Functors
+Applicative Functors
+Monoids
+Fold/Reduce
+Pattern matching
+
+
+RUST
+
+When it comes to design patterns, Rust shares many common patterns with other programming languages. Here are some of the commonly used design patterns in Rust:
+
+Singleton: The Singleton pattern ensures that only one instance of a particular type exists within the entire program. In Rust, you can use the lazy_static crate to implement the Singleton pattern.
+
+Builder: The Builder pattern is used to construct complex objects step by step. Rust's expressive type system and method chaining make it easy to implement the Builder pattern.
+
+Iterator: The Iterator pattern provides a way to traverse elements of a collection without exposing its internal representation. Rust has built-in support for iterators through the Iterator trait and provides various methods for working with collections.
+
+Observer: The Observer pattern defines a one-to-many dependency between objects, where changes in one object trigger updates in other dependent objects. Rust allows you to implement the Observer pattern using traits and closures.
+
+Strategy: The Strategy pattern enables you to select an algorithm dynamically at runtime. Rust's support for closures and function pointers makes it straightforward to implement the Strategy pattern.
+
+Decorator: The Decorator pattern allows you to add additional behavior to an object dynamically. Rust's ownership system and traits make it easy to implement the Decorator pattern.
+
+Factory: The Factory pattern provides an interface for creating objects without specifying their concrete types. Rust's enums and pattern matching capabilities make it natural to implement the Factory pattern.
+
+Adapter: The Adapter pattern converts the interface of a class into another interface that clients expect. Rust's trait system allows you to define new interfaces and implement existing ones, making it suitable for implementing the Adapter pattern.
+
+It's important to note that while these patterns are common and widely used in many programming languages, Rust's ownership model and focus on memory safety may influence the specific implementation details of these patterns in Rust.
