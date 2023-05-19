@@ -1,0 +1,388 @@
+Девочка хочет всё знатъ
+la niña quiere saber todo
+
+Дом (dom) = casa = home
+Семья (sem'ya) = familia = family
+Друг (drug) = amigo = friend
+Язык (yazyk) = idioma = language
+Мама (mama) = mamá = mom
+Папа (papa) = papá = dad
+Школа (shkola) = escuela = school
+Университет (universitet) = universidad = university
+Работа (rabota) = trabajo = work
+Книга (kniga) = libro = book
+Город (gorod) = ciudad = city
+Музыка (muzyka) = música = music
+Телефон (telefon) = teléfono = telephone
+Компьютер (kompyuter) = computadora = computer
+Автобус (avtobus) = autobús = bus
+Путешествие (puteshestviye) = viaje = travel
+Время (vremya) = tiempo = time
+Солнце (solntse) = sol = sun
+Лето (leto) = verano = summer
+Зима (zima) = invierno = winter
+Счастливый (schastlivyy) = feliz = happy
+Грустный (grustnyy) = triste = sad
+Красивый (krasivyy) = hermoso = beautiful
+Новый (novyy) = nuevo = new
+Старый (staryy) = viejo = old
+Большой (bol'shoy) = grande = big
+Маленький (malyen'kiy) = pequeño = small
+Хороший (khoroshiy) = bueno = good
+Плохой (plokhoj) = malo = bad
+Читать (chitat') = leer = to read
+Писать (pisat') = escribir = to write
+Говорить (govorit') = hablar = to speak
+Смотреть (smotret') = mirar = to watch
+Слушать (slushat') = escuchar = to listen
+Есть (est') = comer = to eat
+Пить (pit') = beber = to drink
+Идти (idti) = ir = to go
+Приходить (prikhodit') = venir = to come
+Работать (rabotat') = trabajar = to work
+Учиться (uchit'sya) = estudiar = to study
+Любить (lyubit') = amar = to love
+Покупать (pokupat') = comprar = to buy
+Продавать (prodavat') = vender = to sell
+Играть (igrat') = jugar = to play
+Спать (spat') = dormir = to sleep
+Ходить (khodit') = caminar = to walk
+Сидеть (sidet') = sentarse = to sit
+Страна (strana) = país = country
+Граница (granitsa) = frontera = border
+Гора (gora) = montaña = mountain
+Река (reka) = río = river
+Море (more) = mar = sea
+Озеро (ozero) = lago = lake
+Пляж (plyazh) = playa = beach
+Парк (park) = parque = park
+Музей (muzyey) = museo = museum
+Кафе (kafe) = café = cafe
+Ресторан (restoran) = restaurante = restaurant
+Врач (vrach) = médico = doctor
+Больница (bol'nitsa) = hospital = hospital
+Аптека (apteka) = farmacia = pharmacy
+Полиция (politsiya) = policía = police
+Пожарная служба (pozharnaya sluzhba) = bomberos = fire department
+Почта (pochta) = correo = post office
+Вокзал (vokzal) = estación de tren = train station
+Аэропорт (aeroport) = aeropuerto = airport
+Магазин (magazin) = tienda = shop
+Рынок (rynok) = mercado = market
+Банк (bank) = banco = bank
+Деньги (dengi) = dinero = money
+Цена (tsena) = precio = price
+Время (vremya) = hora = hour
+Месяц (mesyats) = mes = month
+Год (god) = año = year
+Сегодня (segodnya) = hoy = today
+Завтра (zavtra) = mañana = tomorrow
+Вчера (vchera) = ayer = yesterday
+Утро (utro) = mañana = morning
+День (den') = día = day
+Вечер (vecher) = tarde = evening
+Неделя (nedelya) = semana = week
+Понедельник (ponedel'nik) = lunes = Monday
+Вторник (vtornik) = martes = Tuesday
+Среда (sreda) = miércoles = Wednesday
+Четверг (chetverg) = jueves = Thursday
+Пятница (pyatnitsa) = viernes = Friday
+Суббота (subbota) = sábado = Saturday
+Воскресенье (voskresen'ye) = domingo = Sunday
+Белый (belyy) = blanco = white
+Черный (chernyy) = negro = black
+Красный (krasnyy) = rojo = red
+Синий (siniy) = azul = blue
+Зеленый (zelenyy) = verde = green
+Желтый (zheltyy) = amarillo = yellow
+Розовый (rozovyy) = rosa = pink
+Серый (seryy) = gris = gray
+Оранжевый (oranzhevyy) = naranja = orange
+Кошка (koshka) = gato = cat
+Собака (sobaka) = perro = dog
+Птица (ptitsa) = pájaro = bird
+Лошадь (loshad') = caballo = horse
+Зебра (zebra) = cebra = zebra
+Тигр (tigr) = tigre = tiger
+Лев (lev) = león = lion
+Заяц (zayats) = conejo = rabbit
+Медведь (medved') = oso = bear
+Волк (volk) = lobo = wolf
+Рыба (ryba) = pez = fish
+Жираф (zhiraf) = jirafa = giraffe
+Слон (slon) = elefante = elephant
+Змея (zmeya) = serpiente = snake
+Черепаха (cherepakha) = tortuga = turtle
+Червь (cherv') = gusano = worm
+Цветок (tsvetok) = flor = flower
+Дерево (derevo) = árbol = tree
+Трава (trava) = hierba = grass
+Сад (sad) = jardín = garden
+Плод (plod) = fruta = fruit
+Овощ (ovoshch) = verdura = vegetable
+Хлеб (khleb) = pan = bread
+Молоко (moloko) = leche = milk
+Масло (maslo) = mantequilla = butter
+Мясо (myaso) = carne = meat
+Яйцо (yaytso) = huevo = egg
+Соль (sol') = sal = salt
+Сахар (sakhar) = azúcar = sugar
+Вода (voda) = agua = water
+Сок (sok) = jugo = juice
+Кофе (kofe) = café = coffee
+Чай (chay) = té = tea
+Вино (vino) = vino = wine
+Пиво (pivo) = cerveza = beer
+Сок (sok) = zumo = juice
+Суп (sup) = sopa = soup
+Мед (med) = miel = honey
+Сладости (sladosti) = dulces = sweets
+Соль (sol') = sal = salt
+Перец (perts) = pimienta = pepper
+Мороженое (morozhenoye) = helado = ice cream
+Сухари (sukhari) = galletas = cookies
+Шоколад (shokolad) = chocolate = chocolate
+Колбаса (kolbasa) = salchicha = sausage
+Хлеб (khleb) = pan = bread
+Супермаркет (supermarket) = supermercado = supermarket
+Ресторан (restoran) = restaurante = restaurant
+Кафе (kafe) = café = cafe
+Магазин (magazin) = tienda = shop
+Рынок (rynok) = mercado = market
+Школа (shkola) = escuela = school
+Университет (universitet) = universidad = university
+Библиотека (biblioteka) = biblioteca = library
+Музей (muzyey) = museo = museum
+Театр (teatr) = teatro = theater
+Кино (kino) = cine = cinema
+Парк (park) = parque = park
+Бассейн (basseyn) = piscina = swimming pool
+Спорт (sport) = deporte = sport
+Футбол (futbol) = fútbol = soccer
+Теннис (tennis) = tenis = tennis
+Баскетбол (basketbol) = baloncesto = basketball
+Хоккей (khokkey) = hockey = hockey
+Плавание (plavaniye) = natación = swimming
+Лето (leto) = verano = summer
+Зима (zima) = invierno = winter
+Весна (vesna) = primavera = spring
+Осень (osen') = otoño = autumn
+Погода (pogoda) = clima = weather
+Солнце (solntse) = sol = sun
+Дождь (dozhd') = lluvia = rain
+Снег (snyeg) = nieve = snow
+Облако (oblako) = nube = cloud
+Гроза (groza) = tormenta = storm
+Ветер (veter) = viento = wind
+Тепло (teplo) = calor = heat
+Холод (kholod) = frío = cold
+Утро (utro) = mañana = morning
+День (den') = día = day
+Вечер (vecher) = tarde = evening
+Ночь (noch') = noche = night
+Время (vremya) = tiempo = time
+Часы (chasy) = reloj = clock
+Минута (minuta) = minuto = minute
+Час (chas) = hora = hour
+Вчера (vchera) = ayer = yesterday
+Сегодня (segodnya) = hoy = today
+Завтра (zavtra) = mañana = tomorrow
+Неделя (nedelya) = semana = week
+Месяц (mesyats) = mes = month
+Год (god) = año = year
+Понедельник (ponedel'nik) = lunes = Monday
+Вторник (vtornik) = martes = Tuesday
+Среда (sreda) = miércoles = Wednesday
+Четверг (chetverg) = jueves = Thursday
+Пятница (pyatnitsa) = viernes = Friday
+Суббота (subbota) = sábado = Saturday
+Воскресенье (voskresen'ye) = domingo = Sunday
+Привет (privet) = hola = hello/greetings
+Воздух (vozdukh) = aire = air
+Земля (zemlya) = tierra = earth
+Солнечная система (solnechnaya sistema) = sistema solar = solar system
+Гравитация (gravitatsiya) = gravedad = gravity
+Звезда (zvezda) = estrella = star
+Луна (luna) = luna = moon
+Планета (planeta) = planeta = planet
+Космос (kosmos) = espacio (exterior) = space
+Галактика (galaktika) = galaxia = galaxy
+Ракета (raketa) = cohete = rocket
+Астронавт (astronavt) = astronauta = astronaut
+Марс (mars) = Marte = Mars
+Юпитер (yupiter) = Júpiter = Jupiter
+Венера (venera) = Venus = Venus
+Сатурн (saturn) = Saturno = Saturn
+Уран (uran) = Urano = Uranus
+Нептун (neptun) = Neptuno = Neptune
+Меркурий (merkuriy) = Mercurio = Mercury
+Плутон (pluton) = Plutón = Pluto
+Галактический (galakticheskiy) = galáctico = galactic
+Космический (kosmicheskiy) = espacial = cosmic
+Космический корабль (kosmicheskiy korabl') = nave espacial = spaceship
+Спутник (sputnik) = satélite = satellite
+Пыль (pyl') = polvo = dust
+Комета (kometa) = cometa = comet
+Атмосфера (atmosfera) = atmósfera = atmosphere
+Плазма (plazma) = plasma = plasma
+Радиация (radiatsiya) = radiación = radiation
+Звук (zvuk) = sonido = sound
+Шум (shum) = ruido = noise
+Тишина (tishina) = silencio = silence
+Свет (svet) = luz = light
+Темнота (temnota) = oscuridad = darkness
+Цвет (tsvet) = color = color
+Белый (belyy) = blanco = white
+Черный (chernyy) = negro = black
+Синий (siniy) = azul = blue
+Красный (krasnyy) = rojo = red
+Зеленый (zelenyy) = verde = green
+Желтый (zheltyy) = amarillo = yellow
+Оранжевый (oranzhevyy) = naranja = orange
+Фиолетовый (fioletovyy) = morado = purple
+Розовый (rozovyy) = rosa = pink
+Серый (seryy) = gris = gray
+Золотой (zolotoy) = dorado = golden
+Серебряный (serebryanyy) = plateado = silver
+Яркий (yarkiy) = brillante = bright
+Тусклый (tusklyy) = tenue = dull
+Насыщенный (nasyshchennyy) = saturado = saturated
+Пастельный (pastel'nyy) = pastel = pastel
+Камень (kamen') = piedra = stone
+Металл (metall) = metal = metal
+Драгоценный (dragotsennyy) = precioso = precious
+Радуга (raduga) = arcoíris = rainbow
+Химия (khimiya) = química = chemistry
+Физика (fizika) = física = physics
+Биология (biologiya) = biología = biology
+География (geografiya) = geografía = geography
+История (istoriya) = historia = history
+Экология (ekologiya) = ecología = ecology
+Психология (psikhologiya) = psicología = psychology
+Математика (matematika) = matemáticas = mathematics
+Литература (literatura) = literatura = literature
+Искусство (iskusstvo) = arte = art
+Музыка (muzyka) = música = music
+Философия (filosofiya) = filosofía = philosophy
+Религия (religiya) = religión = religion
+Политика (politika) = política = politics
+Экономика (ekonomika) = economía = economy
+Социология (sotsiologiya) = sociología = sociology
+Анатомия (anatomiya) = anatomía = anatomy
+Медицина (meditsina) = medicina = medicine
+Психолог (psikholog) = psicólogo = psychologist
+Врач (vrach) = médico = doctor
+Учитель (uchitel') = maestro = teacher
+Инженер (inzhener) = ingeniero = engineer
+Художник (khudozhnik) = artista = artist
+Писатель (pisatel') = escritor = writer
+Актёр (aktyor) = actor = actor
+Дизайнер (dizayner) = diseñador = designer
+Ученик (uchenik) = estudiante = student
+Работник (rabotnik) = trabajador = worker
+Лидер (lider) = líder = leader
+Руководитель (rukovoditel') = supervisor = supervisor
+Команда (komanda) = equipo = team
+Задача (zadacha) = tarea = task
+Решение (resheniye) = solución = solution
+Информация (informatsiya) = información = information
+Статья (stat'ya) = artículo = article
+Компьютер (kompyuter) = computadora = computer
+Интернет (internet) = internet = internet
+Сеть (set') = red = network
+Программа (programma) = programa = program
+База данных (baza dannykh) = base de datos = database
+Электронная почта (elektronnaya pochta) = correo electrónico = email
+Пароль (parol') = contraseña = password
+Кнопка (knopka) = botón = button
+Экран (ekran) = pantalla = screen
+Файл (fail) = archivo = file
+Ссылка (ssylka) = enlace = link
+
+Один (odin) = uno = one
+Два (dva) = dos = two
+Три (tri) = tres = three
+Четыре (chetyre) = cuatro = four
+Пять (pyat') = cinco = five
+Шесть (shest') = seis = six
+Семь (sem') = siete = seven
+Восемь (vosem') = ocho = eight
+Девять (devyat') = nueve = nine
+Десять (desyat') = diez = ten
+Одиннадцать (odinnadtsat') = once = eleven
+Двенадцать (dvenadtsat') = doce = twelve
+Тринадцать (trinadtsat') = trece = thirteen
+Четырнадцать (chetirnadtsat') = catorce = fourteen
+Пятнадцать (pyatnadtsat') = quince = fifteen
+Шестнадцать (shestnadtsat') = dieciséis = sixteen
+Семнадцать (semnadtsat') = diecisiete = seventeen
+Восемнадцать (vosemnadtsat') = dieciocho = eighteen
+Девятнадцать (devyatnadtsat') = diecinueve = nineteen
+Двадцать (dvadtsat') = veinte = twenty
+Двадцать один (dvadtsat' odin) = veintiuno = twenty-one
+Двадцать два (dvadtsat' dva) = veintidós = twenty-two
+Двадцать три (dvadtsat' tri) = veintitrés = twenty-three
+Двадцать четыре (dvadtsat' chetyre) = veinticuatro = twenty-four
+Двадцать пять (dvadtsat' pyat') = veinticinco = twenty-five
+Двадцать шесть (dvadtsat' shest') = veintiséis = twenty-six
+Двадцать семь (dvadtsat' sem') = veintisiete = twenty-seven
+Двадцать восемь (dvadtsat' vosem') = veintiocho = twenty-eight
+Двадцать девять (dvadtsat' devyat') = veintinueve = twenty-nine
+Тридцать (tridtsat') = treinta = thirty
+Тридцать один (tridtsat' odin) = treinta y uno = thirty-one
+Тридцать два (tridtsat' dva) = treinta y dos = thirty-two
+Тридцать три (tridtsat' tri) = treinta y tres = thirty-three
+Тридцать четыре (tridtsat' chetyre) = treinta y cuatro = thirty-four
+Тридцать пять (tridtsat' pyat') = treinta y cinco = thirty-five
+Тридцать шесть (tridtsat' shest') = treinta y seis = thirty-six
+Тридцать семь (tridtsat' sem') = treinta y siete = thirty-seven
+Тридцать восемь (tridtsat' vosem') = treinta y ocho = thirty-eight
+Тридцать девять (tridtsat' devyat') = treinta y nueve = thirty-nine
+Сорок (sorok) = cuarenta = forty
+Сорок один (sorok odin) = cuarenta y uno = forty-one
+Сорок два (sorok dva) = cuarenta y dos = forty-two
+Сорок три (sorok tri) = cuarenta y tres = forty-three
+Сорок четыре (sorok chetyre) = cuarenta y cuatro = forty-four
+Сорок пять (sorok pyat') = cuarenta y cinco = forty-five
+Сорок шесть (sorok shest') = cuarenta y seis = forty-six
+Сорок семь (sorok sem') = cuarenta y siete = forty-seven
+Сорок восемь (sorok vosem') = cuarenta y ocho = forty-eight
+Сорок девять (sorok devyat') = cuarenta y nueve = forty-nine
+Пятьдесят (pyat'desyat') = cincuenta = fifty
+Пятьдесят один (pyat'desyat' odin) = cincuenta y uno = fifty-one
+Пятьдесят два (pyat'desyat' dva) = cincuenta y dos = fifty-two
+Пятьдесят три (pyat'desyat' tri) = cincuenta y tres = fifty-three
+Пятьдесят четыре (pyat'desyat' chetyre) = cincuenta y cuatro = fifty-four
+Пятьдесят пять (pyat'desyat' pyat') = cincuenta y cinco = fifty-five
+Пятьдесят шесть (pyat'desyat' shest') = cincuenta y seis = fifty-six
+Пятьдесят семь (pyat'desyat' sem') = cincuenta y siete = fifty-seven
+Пятьдесят восемь (pyat'desyat' vosem') = cincuenta y ocho = fifty-eight
+Пятьдесят девять (pyat'desyat' devyat') = cincuenta y nueve = fifty-nine
+Шестьдесят (shest'desyat') = sesenta = sixty
+Шестьдесят один (shest'desyat' odin) = sesenta y uno = sixty-one
+Шестьдесят два (shest'desyat' dva) = sesenta y dos = sixty-two
+Шестьдесят три (shest'desyat' tri) = sesenta y tres = sixty-three
+Шестьдесят четыре (shest'desyat' chetyre) = sesenta y cuatro = sixty-four
+Шестьдесят пять (shest'desyat' pyat') = sesenta y cinco = sixty-five
+Шестьдесят шесть (shest'desyat' shest') = sesenta y seis = sixty-six
+Шестьдесят семь (shest'desyat' sem') = sesenta y siete = sixty-seven
+Шестьдесят восемь (shest'desyat' vosem') = sesenta y ocho = sixty-eight
+Шестьдесят девять (shest'desyat' devyat') = sesenta y nueve = sixty-nine
+Семьдесят (sem'desyat') = setenta = seventy
+Семьдесят один (sem'desyat' odin) = setenta y uno = seventy-one
+Семьдесят два (sem'desyat' dva) = setenta y dos = seventy-two
+Семьдесят три (sem'desyat' tri) = setenta y tres = seventy-three
+Семьдесят четыре (sem'desyat' chetyre) = setenta y cuatro = seventy-four
+Семьдесят пять (sem'desyat' pyat') = setenta y cinco = seventy-five
+Семьдесят шесть (sem'desyat' shest') = setenta y seis = seventy-six
+Семьдесят семь (sem'desyat' sem') = setenta y siete = seventy-seven
+Семьдесят восемь (sem'desyat' vosem') = setenta y ocho = seventy-eight
+Семьдесят девять (sem'desyat' devyat') = setenta y nueve = seventy-nine
+Восемьдесят (vosemdesyat') = ochenta = eighty
+Восемьдесят один (vosemdesyat' odin) = ochenta y uno = eighty-one
+Восемьдесят два (vosemdesyat' dva) = ochenta y dos = eighty-two
+Восемьдесят три (vosemdesyat' tri) = ochenta y tres = eighty-three
+Восемьдесят четыре (vosemdesyat' chetyre) = ochenta y cuatro = eighty-four
+Восемьдесят пять (vosemdesyat' pyat') = ochenta y cinco = eighty-five
+Восемьдесят шесть (vosemdesyat' shest') = ochenta y seis = eighty-six
+Восемьдесят семь (vosemdesyat' sem') = ochenta y siete = eighty-seven

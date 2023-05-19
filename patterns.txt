@@ -31,7 +31,7 @@ memento
 
 architectural
 model view controller
-model vire presenter
+model view presenter
 model view viewmodel
 
 layered 
@@ -85,3 +85,104 @@ Factory: The Factory pattern provides an interface for creating objects without 
 Adapter: The Adapter pattern converts the interface of a class into another interface that clients expect. Rust's trait system allows you to define new interfaces and implement existing ones, making it suitable for implementing the Adapter pattern.
 
 It's important to note that while these patterns are common and widely used in many programming languages, Rust's ownership model and focus on memory safety may influence the specific implementation details of these patterns in Rust.
+
+
+
+
+
+
+
+
+As a software engineer, there are several important topics you should study to enhance your skills and stay relevant in the field. Here are some key areas to focus on:
+
+1. Programming Languages: Gain expertise in popular programming languages such as Python, Java, C++, JavaScript, and others based on your area of interest. Understanding multiple languages allows you to adapt to different projects and technologies.
+2. Data Structures and Algorithms: Study fundamental data structures (arrays, linked lists, trees, graphs, etc.) and algorithms (sorting, searching, recursion, dynamic programming, etc.). This knowledge is essential for efficient problem-solving and optimizing code.
+3. Object-Oriented Design and Design Patterns: Learn about object-oriented programming principles like encapsulation, inheritance, and polymorphism. Familiarize yourself with design patterns (e.g., Singleton, Observer, Factory) that provide reusable solutions to common software design problems.
+4. Databases and SQL: Understand how databases work, learn Structured Query Language (SQL), and study relational database management systems (e.g., MySQL, PostgreSQL). Learn about database design, normalization, indexing, and query optimization.
+5. Web Development: Gain knowledge of web technologies such as HTML, CSS, and JavaScript. Familiarize yourself with web frameworks (e.g., React, Angular, Vue.js) and server-side technologies (e.g., Node.js, Django, Ruby on Rails).
+6. Software Development Life Cycle (SDLC): Understand the various phases of software development, including requirements gathering, design, coding, testing, deployment, and maintenance. Learn about different development methodologies like Agile, Scrum, and Waterfall.
+7. Version Control Systems: Master version control tools like Git, which help manage code changes, collaborate with others, and maintain code integrity.
+8. Operating Systems: Gain a basic understanding of operating system concepts, including process management, memory management, file systems, and concurrency. Learn how to develop software that interacts with operating systems effectively.
+9. Networking and Security: Familiarize yourself with networking protocols, TCP/IP, HTTP, and DNS. Learn about network security, encryption, authentication, and common vulnerabilities to develop secure software applications.
+10. Software Testing and Quality Assurance: Learn various testing techniques, including unit testing, integration testing, and system testing. Understand how to write testable code and apply testing frameworks (e.g., JUnit, pytest) and methodologies (e.g., Test-Driven Development).
+11. Cloud Computing: Familiarize yourself with cloud platforms like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform. Learn about cloud-based architectures, virtualization, containerization (e.g., Docker, Kubernetes), and serverless computing.
+12. Continuous Integration and Deployment (CI/CD): Understand CI/CD pipelines, which automate the process of building, testing, and deploying software. Learn tools like Jenkins, Travis CI, and GitLab CI/CD.
+13. Machine Learning and Artificial Intelligence: Explore the basics of machine learning and AI concepts. Understand algorithms like regression, classification, and neural networks. Familiarize yourself with popular libraries and frameworks like TensorFlow and PyTorch.
+14. Soft Skills: Develop strong communication, problem-solving, and teamwork skills. Software engineers often work in teams and need to effectively collaborate with colleagues, understand requirements, and communicate ideas.
+
+Remember, this is not an exhaustive list, and the software engineering field is constantly evolving. Stay curious, keep learning, and adapt to new technologies and trends to stay ahead in your career.
+
+Programming Languages,
+Data Structures and Algorithms,
+Object-Oriented Design and Design Patterns,
+Databases and SQL,
+Web Development,
+Software Development Life Cycle (SDLC),
+Version Control Systems,
+Operating Systems,
+Networking and Security,
+Software Testing and Quality Assurance,
+Cloud Computing,
+Continuous Integration and Deployment (CI/CD),
+Machine Learning and Artificial Intelligence,
+Soft Skills
+
+creational
+singleton
+factory
+abstract factory
+builder
+prototype
+
+structural
+
+adapter
+decorator
+composite
+proxy 
+facade
+bridge
+ 
+ 
+
+behavioral
+
+observer
+strategy
+command
+iterator
+visitor
+chain of responsability
+state
+memento
+template
+
+
+
+ 
+architectural
+
+modle view controller
+model view presenter
+model view viewmodel
+
+
+layered 
+repository
+dependency injection
+event driven architecture
+
+
+structural
+behavioral
+
+architectural
+layered
+concurrency
+
+concurrency
+producer 
+consumer
+reader-writer
+active
+thread pool
