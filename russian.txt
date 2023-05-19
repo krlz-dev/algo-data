@@ -50,7 +50,7 @@ la niña quiere saber todo
 Сидеть (sidet') = sentarse = to sit
 Страна (strana) = país = country
 Граница (granitsa) = frontera = border
-Гора (gora) = montaña = mountain
+Гора (gara) = montaña = mountain
 Река (reka) = río = river
 Море (more) = mar = sea
 Озеро (ozero) = lago = lake
@@ -118,7 +118,7 @@ la niña quiere saber todo
 Дерево (derevo) = árbol = tree
 Трава (trava) = hierba = grass
 Сад (sad) = jardín = garden
-Плод (plod) = fruta = fruit
+фрукт (fruct) = fruta = fruit
 Овощ (ovoshch) = verdura = vegetable
 Хлеб (khleb) = pan = bread
 Молоко (moloko) = leche = milk
@@ -135,22 +135,16 @@ la niña quiere saber todo
 Пиво (pivo) = cerveza = beer
 Сок (sok) = zumo = juice
 Суп (sup) = sopa = soup
-Мед (med) = miel = honey
+Мёд (med) = miel = honey
 Сладости (sladosti) = dulces = sweets
-Соль (sol') = sal = salt
 Перец (perts) = pimienta = pepper
 Мороженое (morozhenoye) = helado = ice cream
 Сухари (sukhari) = galletas = cookies
 Шоколад (shokolad) = chocolate = chocolate
 Колбаса (kolbasa) = salchicha = sausage
-Хлеб (khleb) = pan = bread
 Супермаркет (supermarket) = supermercado = supermarket
 Ресторан (restoran) = restaurante = restaurant
 Кафе (kafe) = café = cafe
-Магазин (magazin) = tienda = shop
-Рынок (rynok) = mercado = market
-Школа (shkola) = escuela = school
-Университет (universitet) = universidad = university
 Библиотека (biblioteka) = biblioteca = library
 Музей (muzyey) = museo = museum
 Театр (teatr) = teatro = theater
@@ -184,19 +178,12 @@ la niña quiere saber todo
 Часы (chasy) = reloj = clock
 Минута (minuta) = minuto = minute
 Час (chas) = hora = hour
-Вчера (vchera) = ayer = yesterday
-Сегодня (segodnya) = hoy = today
+Вчера (fchera) = ayer = yesterday
+Сегодня (sebodnya) = hoy = today
 Завтра (zavtra) = mañana = tomorrow
 Неделя (nedelya) = semana = week
 Месяц (mesyats) = mes = month
 Год (god) = año = year
-Понедельник (ponedel'nik) = lunes = Monday
-Вторник (vtornik) = martes = Tuesday
-Среда (sreda) = miércoles = Wednesday
-Четверг (chetverg) = jueves = Thursday
-Пятница (pyatnitsa) = viernes = Friday
-Суббота (subbota) = sábado = Saturday
-Воскресенье (voskresen'ye) = domingo = Sunday
 Привет (privet) = hola = hello/greetings
 Воздух (vozdukh) = aire = air
 Земля (zemlya) = tierra = earth
